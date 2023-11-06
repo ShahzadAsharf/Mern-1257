@@ -1,0 +1,9 @@
+function table (number) {
+  for (var index = 1; index < 10; index++) {
+    var res = index * number;
+    consle.log(res);
+    
+  }
+    table(5)
+  
+}
