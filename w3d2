@@ -1,0 +1,14 @@
+// acending sortArray
+const array =[ 1,8,0,4,3,7,6,2,5];
+const sortArray=array.sort((a,b) => a-b);
+console.log(sortArray)
+
+// decending sortArray
+const number =[ 1,8,0,4,3,7,6,2,5];
+const sortNumber=number.sort((a,b) => b-a);
+console.log(sortNumber)
+
+// sortString
+const names =["shahzad "," ali","bilal" ];
+const nameArray= names.sort();
+console.log(names);
