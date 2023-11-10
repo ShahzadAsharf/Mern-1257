@@ -1,0 +1,15 @@
+const object={
+    name :" shahzad",
+    gender:" male",
+    age : 19,
+    city :" sukkur",
+    password: 125563
+   
+}
+const object1 ={
+    password:12234,
+    firstName:"",
+    lastName:""
+
+}
+console.log( restObject)
